@@ -13,6 +13,7 @@
 
 from turtle import Turtle, Screen
 import random
+import turtle
 turtle.colormode(255)
 damien_colours = [(141, 165, 183), (24, 117, 173), (202, 140, 166), (238, 212, 62), (221, 158, 90), (123, 73, 97),
                   (138, 20, 38), (191, 173, 20), (21, 140, 58), (68, 27, 33), (191, 70, 32), (224, 171, 197),
